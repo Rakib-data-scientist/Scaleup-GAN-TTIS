@@ -27,6 +27,6 @@
 12.
 ![Scaling-up-GAN-Text-to-Image-Synthesis_page-0012](https://github.com/Rakib-data-scientist/Scaleup-GAN-TTIS/assets/137823730/40728056-4178-4054-a8c6-a1ee90f9a529)
 
-Inspired by : https://arxiv.org/pdf/2303.05511v2.pdf
+* Inspired by : https://arxiv.org/pdf/2303.05511v2.pdf
 
 
