@@ -1,6 +1,6 @@
 # Scaleup-GAN-TTIS
 
-Inspired by : https://arxiv.org/pdf/2303.05511v2.pdf
+
 
 1.
 ![Scaling-up-GAN-Text-to-Image-Synthesis_page-0001](https://github.com/Rakib-data-scientist/Scaleup-GAN-TTIS/assets/137823730/e3037180-4244-4292-9d07-03d9a6281bc2)
@@ -26,5 +26,7 @@ Inspired by : https://arxiv.org/pdf/2303.05511v2.pdf
 ![Scaling-up-GAN-Text-to-Image-Synthesis_page-0011](https://github.com/Rakib-data-scientist/Scaleup-GAN-TTIS/assets/137823730/49e24c83-5f88-453d-9382-3c2faee9da1c)
 12.
 ![Scaling-up-GAN-Text-to-Image-Synthesis_page-0012](https://github.com/Rakib-data-scientist/Scaleup-GAN-TTIS/assets/137823730/40728056-4178-4054-a8c6-a1ee90f9a529)
+
+Inspired by : https://arxiv.org/pdf/2303.05511v2.pdf
 
 
